@@ -2,7 +2,6 @@
 src = 'src'
 out = 'out'
 libs = ['node_modules', 'lib']
-evm_version = 'london'
 via_ir = true
 optimizer = true
 optimizer_runs = 200
